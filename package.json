@@ -1,0 +1,14 @@
+{
+  "name": "icu-message-plural-validator",
+  "version": "1.0.0",
+  "description": "ICU 消息格式与复数规则校验器",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
